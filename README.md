@@ -3,7 +3,7 @@
 
 🏆 SMIT Certified Student
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/https://www.facebook.com/mazhar.uddin.77128) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mazhar.uddin.77128)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazhar-ud-din-b71137252/)
 
 # 💻 Tech Stack:
@@ -11,3 +11,5 @@
 ### ✍️ Random Dev Quote
 ### 🔝 Top Contributed Repo
 ---
+
+https://www.facebook.com/mazhar.uddin.77128
