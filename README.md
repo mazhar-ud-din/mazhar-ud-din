@@ -11,5 +11,3 @@
 ### ✍️ Random Dev Quote
 ### 🔝 Top Contributed Repo
 ---
-
-https://www.facebook.com/mazhar.uddin.77128
