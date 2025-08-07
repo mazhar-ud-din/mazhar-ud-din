@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 About Me<br>I am a passionate React Native Developer with over 3 years of experience in creating scalable, high-performance web applications using React, JavaScript , TypeScript, and more. As the Lead Trainer at SMIT, I’ve mentored aspiring developers and contributed to the tech community.
+💻 About Me👋 Hi there! I'm a passionate React Native Developer with over 3 years of experience building scalable, high-performance mobile apps using React Native, JavaScript, TypeScript, and related technologies.
 ## 🌐 Socials:
 # 💻 Tech Stack:
 # 📊 GitHub Stats:
