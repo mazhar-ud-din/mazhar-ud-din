@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 About Me👋 Hi there! I'm a passionate React Native Developer with over 3 years of experience building scalable, high-performance mobile apps using React Native, JavaScript, TypeScript, and related technologies.
+💻 About Me<br/>👋 Hi there! I'm a passionate React Native Developer with over 3 years of experience building scalable, high-performance mobile apps using React Native, JavaScript, TypeScript, and related technologies.
 ## 🌐 Socials:
 # 💻 Tech Stack:
 # 📊 GitHub Stats:
